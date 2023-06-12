@@ -4,15 +4,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=joaocube&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div>  
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocube&layout=compact&hide_border=true&title_color=5e3aee&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
- 
-<div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">  
+  <img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocube&layout=compact&hide_border=true&title_color=5e3aee&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <!--  ### Main skills:
